@@ -6,7 +6,7 @@ My focus is on continuous learning and applying best practices in cloud computin
 
 ## 🛠️ Core Skills & Expertise
 
-- **Cloud:** AWS, Azure, Google Cloud (GCP)
+- **Cloud:**   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  AWS, Azure, Google Cloud (GCP)
 - **Languages:** Bash, Python, Go
 - **Configuration Management & IaC:** Terraform, Ansible, Chef
 - **Orchestration:** Docker, Kubernetes
