@@ -1,40 +1,36 @@
-# Hi there 👋 I am Bilal Amjad.
+## 👨‍💻 About Me
 
-Welcome to my GitHub profile!
+I'm a DevOps Engineer passionate about automating workflows, building scalable infrastructure, and ensuring system reliability. I enjoy bridging the gap between development and operations to accelerate software delivery and create robust, efficient pipelines.
 
+My focus is on continuous learning and applying best practices in cloud computing, containerization, and Infrastructure as Code (IaC) to solve real-world problems.
 
-## OS
+## 🛠️ Core Skills & Expertise
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+- **Cloud:** AWS, Azure, Google Cloud (GCP)
+- **Languages:** Bash, Python, Go
+- **Configuration Management & IaC:** Terraform, Ansible, Chef
+- **Orchestration:** Docker, Kubernetes
+- **CI/CD:** Jenkins, GitLab CI/CD, GitHub Actions
+- **Monitoring:** Prometheus, Grafana, ELK Stack
+- **Other:** Git, GitHub, VPC, Subnets, Load Balancers, DNS
 
-## Language
+## 🚀 Projects Showcase
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+| Project | Description | Technologies | Link |
+|---------|-------------|--------------|------|
+| **CI/CD Pipeline for a Web App** | Automated pipeline to build, test, and deploy a full-stack app to Kubernetes on AWS. | GitHub Actions, Docker, Kubernetes, AWS, Terraform | [View Project](#) |
+| **Multi-Cloud IaC with Terraform** | Provision and manage resources across AWS and Azure using a single Terraform codebase. | Terraform, AWS, Azure, Bash | [View Project](#) |
+| **Prometheus & Grafana Monitoring** | Comprehensive monitoring solution with real-time dashboards for web services. | Prometheus, Grafana, Docker, Linux | [View Project](#) |
 
-## Configuration Management
+## 📈 GitHub Stats
 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square)
-![Chef](https://img.shields.io/badge/Chef-F09820?logo=chef&logoColor=white&style=flat-square)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak" />
+</div>
 
-## Containerization & Orchestration
+## 🔗 Connect With Me
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-
-## Infrastructure as Code
-
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square)
-
-## Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
-
-## Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+- [LinkedIn](#)
+- [Portfolio/Website](#)
+- Email: your.email@example.com
